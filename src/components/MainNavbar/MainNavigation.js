@@ -10,7 +10,9 @@ const MainNavigation = (props) =>{
         <ImageLogo></ImageLogo>
         <p>Sarajevo, Federacija Bosne i Hercegovine</p>
         <Search></Search>
+       
         </div>
+      
         </div>
         
         

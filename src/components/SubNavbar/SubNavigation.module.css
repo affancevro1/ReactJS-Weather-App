@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+  }
+  
+  body {
+    background: #e0e0e0;
+  }
+  
+  a {
+    color: #666c72;
+    text-decoration: none;
+    line-height: 42px;
+    font: inherit
+
+
+  }
+  
+  .app {
+    margin: 25px auto;
+    max-width: 800px;
+    width: 95%;
+    border-bottom: 1px solid grey;
+  }
+  
+  .nav{
+    padding-bottom: 16px;
+  }
+  .nav a {
+    font-size: 16px;
+    margin-right: 25px;
+  }
+.nav a.active {
+    border-bottom: 1px solid #f05514;
+    padding-bottom: 16px;
+    
+  }
